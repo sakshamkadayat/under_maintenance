@@ -45,7 +45,7 @@ function App() {
         <h1>Website Under Construction</h1>
         <p>We're working hard to bring you an amazing new website. Stay tuned!</p>
         {countdown.launched ? (
-          <div className="countdown">Website Launched!</div>
+          <div className="countdown">Website Website Under Construction</div>
         ) : (
           <div className="countdown">
             <div>{countdown.days}d</div>
